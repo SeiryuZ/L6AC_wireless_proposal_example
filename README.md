@@ -56,4 +56,14 @@ As far as the writer know, no apartments utilize this level of reporting and it 
 * Steven B
    Will work on the add new problem page and the problem detail page
 
+## Weekly plan
 
+* Week 5 - Start create skeleton activities
+* Week 6 - Design User Interface for each activities
+* Week 7 - Handle login network activities, problem listing, add new problem, and detail
+* Week 8 - Handle database (Saving problems to local database, adding new problems)
+* Week 9 - Camera API
+* Week 10 - Handle sensitive data encryption
+* Week 11 - User Experience tweak
+* Week 12 - Report preparation
+* Week 13 - Presentation
